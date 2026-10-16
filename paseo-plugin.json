@@ -1,0 +1,6 @@
+{
+  "id": "devin-usage-source",
+  "name": "Devin usage",
+  "description": "Devin plan quota usage and on-demand credit balance in the Usage surface.",
+  "requirements": { "paseo": ">=0.11.0" }
+}
